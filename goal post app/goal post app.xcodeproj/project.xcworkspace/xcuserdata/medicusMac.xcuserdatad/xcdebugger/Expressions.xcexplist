@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CreateGoalVC.nextBtnWasPressed(_:):CreateGoalVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.goalType.rawValue">
+            </PersistentString>
+            <PersistentString
+               value = "self.goalType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FinishGoalVC.save(completion:):FinishGoalVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.goalType.rawValue">
+            </PersistentString>
+            <PersistentString
+               value = "self.goalType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GoalCell.configureGoalCell(goal:):GoalCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "goal.goalCompletionValue ">
+            </PersistentString>
+            <PersistentString
+               value = "goal.goalProgress">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FinishGoalVC.initData(description:type:):FinishGoalVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static AppDelegate.$main():AppDelegate.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
